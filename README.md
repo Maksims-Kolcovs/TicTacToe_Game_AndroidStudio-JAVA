@@ -18,6 +18,10 @@ his project was developed with the assistance of OpenAI's ChatGPT, which provide
 
 - Tool: [ChatGPT, OpenAI](https://openai.com/chatgpt)
 - Period of assistance: April 2025
+
+1. https://chatgpt.com/share/6805fd96-6c8c-8005-852e-9571f2cbf34f
+2. https://chatgpt.com/share/6805fdc6-392c-8005-8bf3-69bc0feacb29
+3. https://chatgpt.com/share/6805fde1-a238-8005-95e7-caa1afa560e5
    
    
 ## 🎯 Features
