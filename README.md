@@ -33,7 +33,7 @@ his project was developed with the assistance of OpenAI's ChatGPT, which provide
 
 ## 🛠️ Technologies
 
-- 💻 **Kotlin:** Programming language used for development.
+- 💻 **Java:** Programming language used for development.
 - 🚀 **Android Jetpack:** Modern Android development libraries.
 - 📦 **androidx.appcompat:appcompat:1.7.0:** Provides backward compatibility with older Android versions.
 - 📦 **androidx.activity:activity:1.10.1:** Activity component library.
