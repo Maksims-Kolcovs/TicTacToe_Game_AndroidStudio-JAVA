@@ -57,10 +57,15 @@ his project was developed with the assistance of OpenAI's ChatGPT, which provide
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/b00cb07c-cbb7-4c9f-bff6-bcd723f28249)
-![image](https://github.com/user-attachments/assets/b1549620-650a-4c48-a86a-f68132b65734)
-![image](https://github.com/user-attachments/assets/7ac6b135-cc88-4a93-850f-2e6cc7463d66)
-![image](https://github.com/user-attachments/assets/24933346-183e-411e-bb3e-8b80a0d2e48b)
+![image](https://github.com/user-attachments/assets/9e194ed8-3693-4470-8b8d-31b2c8935f7a)
+![image](https://github.com/user-attachments/assets/dc72ba98-5cf9-4f11-acfb-75bf01f9f77d)
+![image](https://github.com/user-attachments/assets/eb1f402f-fa1c-4ebe-8c8a-9ef7b43f47cc)
+![image](https://github.com/user-attachments/assets/75ba2bd3-b79b-47f8-8a23-dbb6a29a0432)
+![image](https://github.com/user-attachments/assets/a5aa6fc2-3cc7-48f2-a3aa-f013bf0d026b)
+
+
+
+
 
 
 
