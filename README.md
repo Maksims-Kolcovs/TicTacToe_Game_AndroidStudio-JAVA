@@ -2,6 +2,24 @@
 
 This is a simple **Tic-Tac-Toe** game designed for the Android platform, allowing for 1v1 gameplay. The game is built using **Kotlin** and modern **Android Jetpack** libraries. 📱
 
+
+## 🔗 References
+
+The following YouTube videos were used as guidance to create this game:
+
+1. [Tic Tac Toe Game in Android Studio - Kotlin - Part 1](https://www.youtube.com/watch?v=Fa5egLurW5U&list=PLcSIMAULmMyftO2SvNGE5mmYKKeAWCJUm) by Practical Coding
+2. [Tic Tac Toe Game in Android Studio - Kotlin - Part 2](https://www.youtube.com/watch?v=qBAYVKT8ITI&list=PLcSIMAULmMyftO2SvNGE5mmYKKeAWCJUm&index=2) by Practical Coding
+3. [Tic Tac Toe Game in Android Studio - Kotlin - Part 3](https://www.youtube.com/watch?v=2QzgtsUrRL8&list=PLcSIMAULmMyftO2SvNGE5mmYKKeAWCJUm&index=3) by Practical Coding
+
+1. This project was inspired by and partially based on examples from:
+"Tic-Tac-Toe Game in Java", GeeksforGeeks, available at: https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/
+
+his project was developed with the assistance of OpenAI's ChatGPT, which provided support for programming advice, debugging, and additional feature suggestions.
+
+- Tool: [ChatGPT, OpenAI](https://openai.com/chatgpt)
+- Period of assistance: April 2025
+   
+   
 ## 🎯 Features
 
 - 🎮 **1v1 Gameplay:** Two players can play on a single device.
